@@ -10,7 +10,7 @@ export default function Footer() {
 
       <div className="linksSociais">
         <a
-          href="#"
+          href="https://drive.google.com/file/d/1U4cug-2-VeZqclMbjNslvYHWcFgn2qFH/view?usp=sharing"
           target="_blank"
         >
           <img src={logoCurriculo} alt="" title="Baixar Currículo" />

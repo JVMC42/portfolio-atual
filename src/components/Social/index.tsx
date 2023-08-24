@@ -6,7 +6,7 @@ import gitHubLogo from "../../assets/images/githublogo.svg";
 export default function Social() {
   return (
     <ContainerSocials>
-      <IconSocial href="#" target="_blank">
+      <IconSocial href="https://drive.google.com/file/d/1U4cug-2-VeZqclMbjNslvYHWcFgn2qFH/view?usp=sharing" target="_blank">
         <img src={logoCurriculo} alt="" title="Baixar Currículo" />
       </IconSocial>
 
