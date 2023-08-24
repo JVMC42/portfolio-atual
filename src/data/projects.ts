@@ -83,7 +83,7 @@ const projects = [
     tags: [
       {
         name: "React Js",
-        icon: "/public/skills/react.svg",
+        icon: "/public/skills/next-js.svg",
         color: "#61DAFB",
         rgb: "97, 218, 251",
       },
