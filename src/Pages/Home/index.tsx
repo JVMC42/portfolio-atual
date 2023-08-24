@@ -5,7 +5,7 @@ import Title from "../../components/Title";
 import CardAbout from "../../components/CardAbout";
 import skater from "../../assets/images/bgastro.png"
 import CardProject from "../../components/CardProject";
-import CardExperience from "../../components/CardExperiencie";
+/* import CardExperience from "../../components/CardExperiencie"; */
 import CardSkills from "../../components/CardSkills";
 import { ScrollTop } from "../../components/ScrollTop";
 import GitHub from "../../components/CardProject/GitHub";

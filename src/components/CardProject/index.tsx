@@ -8,7 +8,7 @@ import {
 import projects from "../../data/projects";
 import { ArrowRight } from "phosphor-react";
 import { HiOutlineDesktopComputer } from "react-icons/hi";
-import code from "/skills/codeTwo.svg";
+/* import code from "/skills/codeTwo.svg"; */
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 interface CardProject {
